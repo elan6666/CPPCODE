@@ -1,3 +1,0 @@
-﻿  test.cpp
-E:\CODE\CPPCODE\Data-Structure\Dfs-Tree\Dfs-Tree\test.cpp(4,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-  Dfs-Tree.vcxproj -> E:\CODE\CPPCODE\Data-Structure\Dfs-Tree\x64\Debug\Dfs-Tree.exe
